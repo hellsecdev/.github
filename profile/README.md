@@ -48,5 +48,5 @@ If you have an idea or need consultation on protecting your project, feel free t
 - [Email us](mailto:info@pumalabs.io)
 
 <div align="center">
-  <img src="https://github.com/Puma-Labs/pumalabs.io/blob/main/img/PumaRoboLogo.png?raw=true" alt="Puma Labs Logo" width="150" height="150">
+  <img src="https://github.com/Puma-Labs/.github/blob/main/profile/Digital.png?raw=true" alt="Puma Labs Logo" width="70" height="70">
 </div>
