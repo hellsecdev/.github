@@ -48,5 +48,5 @@ If you have an idea or need consultation on protecting your project, feel free t
 - [Email us](mailto:info@hellsec.dev)
 
 <div align="center">
-  <img src="https://github.com/hellsecdev/.github/blob/main/profile/HellSecLogo.png?raw=true" alt="HellSec Logo" width="70" height="70">
+  <img src="https://github.com/hellsecdev/.github/blob/main/profile/HellSecLogo.png?raw=true" alt="HellSec Logo" width="110" height="110">
 </div>
