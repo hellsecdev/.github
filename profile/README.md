@@ -43,10 +43,10 @@ Here are a few examples of the projects we’ve worked on:
 
 If you have an idea or need consultation on protecting your project, feel free to reach out. We are always eager to help ambitious startups and entrepreneurs succeed.
 
-- [Visit our website](https://hellsec.io)
+- [Visit our website](https://hellsec.dev)
 - [Connect on LinkedIn](https://linkedin.com/company/hellsec)
-- [Email us](mailto:info@hellsec.io)
+- [Email us](mailto:info@hellsec.dev)
 
 <div align="center">
-  <img src="https://github.com/HellSec/.github/blob/main/profile/Digital.png?raw=true" alt="HellSec Logo" width="70" height="70">
+  <img src="https://github.com/hellsecdev/.github/blob/main/profile/HellSecLogo.png?raw=true" alt="HellSec Logo" width="70" height="70">
 </div>
