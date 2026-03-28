@@ -23,22 +23,6 @@ Not only do we deliver high-quality product development, but we also ensure data
 
 At HellSec, we believe that innovation and security go hand in hand. Our mission is to help startups and entrepreneurs build safe, scalable, and innovative solutions that shape the future. We are committed to supporting every project with a strong focus on product development and data security, enabling businesses to grow confidently and securely.
 
-### Projects
-
-Here are a few examples of the projects we’ve worked on:
-
-- **VaadBot** 
-  - [Android Version](https://play.google.com/store/apps/details?id=com.vaadbot) | [iOS Version](https://apps.apple.com/il/app/vaadbot/id6475007894)
-  - VaadBot is a mobile application designed to streamline property management in multi-apartment buildings. It simplifies the work of Homeowners' Associations (HOAs) by facilitating communication, financial tracking, and logistical management. Whether you're a building manager, tenant, accountant, or supplier, VaadBot makes processes more efficient.
-
-- **Hupu Delivery** 
-  - [Android Version](https://play.google.com/store/apps/details?id=com.hupudelivery) | [iOS Version](https://apps.apple.com/us/app/hupu-delivery/id1624993436)
-  - HUPU Delivery is a 24/7 app for managing deliveries in Israel, offering services from food delivery to moving, with real-time tracking and planning options. Available in Hebrew and Russian.
-
-- **Nurses Haifa**
-  - [Website](https://nurses.co.il/)
-  - This project trains nurses to provide compassionate, high-quality care, focusing on sensitivity to individuals and society. It fosters creativity, academic excellence, and motivates students for professional growth, shaping empathetic healthcare professionals.
-
 ### Contact Us
 
 If you have an idea or need consultation on protecting your project, feel free to reach out. We are always eager to help ambitious startups and entrepreneurs succeed.
